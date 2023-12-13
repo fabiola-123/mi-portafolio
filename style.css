@@ -1,0 +1,63 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+/* Estilo del header */
+header {
+    background-color: #007bff; /* Cambia el color de fondo según tu preferencia */
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+header li {
+    margin: 0 15px;
+}
+
+header a {
+    text-decoration: none;
+    color: #fff; /* Cambia el color del texto según tu preferencia */
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Estilo de la sección de perfil */
+#perfil {
+    background-color: #f8f9fa; /* Cambia el color de fondo según tu preferencia */
+}
+
+#titulo {
+    color: #007bff; /* Cambia el color del texto según tu preferencia */
+}
+
+/* Estilo de la sección de habilidades */
+#habilidades {
+    background-color: #f8f9fa; /* Cambia el color de fondo según tu preferencia */
+}
+
+/* Estilo de la sección de proyectos */
+#proyectos {
+    background-color: #f8f9fa; /* Cambia el color de fondo según tu preferencia */
+}
+
+/* Estilo del carousel */
+#myCarousel {
+    margin-bottom: 60px;
+}
+
+/* Estilo de la sección de contacto */
+#contactame {
+    background-color: #343a40; /* Cambia el color de fondo según tu preferencia */
+    color: #fff; /* Cambia el color del texto según tu preferencia */
+}
+
+#contactame h1 {
+    color: #007bff; /* Cambia el color del título según tu preferencia */
+}
